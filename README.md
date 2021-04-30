@@ -1,0 +1,2 @@
+Projeto Handroanthus heptaphyllus (Thiago Santana - PUC_RJ)
+Esta pasta foi criada para incluir os arquivos referentes ao trablaho do Thiago com Handroanthus heptaphyllus (os dados referencem-se , principalmente, a informações sobre a fenologia de floraçao obtidas da analise do material das redes "Species link e Reflor"a" para o período de 1832 a 2018).
